@@ -5,7 +5,7 @@
     <artifactId>sbt-handlebars</artifactId>
     <packaging>jar</packaging>
     <description>sbt-handlebars</description>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <name>sbt-handlebars</name>
     <organization>
         <name>com.dataflow.sbt</name>
